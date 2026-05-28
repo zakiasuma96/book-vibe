@@ -11,6 +11,7 @@ const Footer = () => {
      Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.
     </p>
     <p className="font-regular text-[16px] text-gray-300 mt-2">Social Links</p>
+    <p>new</p>
     
   </aside>
   <nav>
