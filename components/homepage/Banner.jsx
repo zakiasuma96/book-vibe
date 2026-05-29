@@ -3,8 +3,9 @@ import bookImg from '../../assets/pngwing 1.png';
 
 const Banner = () => {
     return (
-        
-<div class="hero bg-base-200 min-h-[70vh] rounded-2xl my-8 container mx-auto px-20">
+      <div className='bg-base-200'>
+
+<div className="hero  min-h-[70vh] rounded-2xl  container mx-auto px-10">
   <div class="hero-content flex-col lg:flex-row-reverse w-full justify-between">
     <img
       src={bookImg}
@@ -19,6 +20,9 @@ const Banner = () => {
     </div>
   </div>
 </div>
+      </div>
+
+        
      
     );
 };
